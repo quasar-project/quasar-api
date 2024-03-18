@@ -1,0 +1,21 @@
+/Debug/
+/.metadata/
+/Release fftw/src
+/Release neon/src
+/Release CUDA/src
+/Release fftw/libQuaSAR.so
+/Release CUDA/libQuaSAR.so
+/py2/libQuaSAR.so
+/py2/quasar.log
+/py2/__pycache__/
+/py2/log.log
+/py2/auto
+
+# Build artifacts
+*build*
+target
+
+# IDE
+# .idea
+*.csv
+*.jpg
